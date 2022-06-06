@@ -1,6 +1,6 @@
 # BON-APPETIT-Angular-Frontend-
 
-'BON APPETIT' (Cloud Kitchen) web application (frontend) developed using HTML, CSS, JavaScript, Angular, NodeJS and Bootstrap.
+'BON APPETIT' (Cloud Kitchen) is user centric Single Page web application which provides access to various food items and its online delivery feature. It consists of user registration/login, menu selection, cart and payment gateway integration features. Where user can order food with only three simple steps. This web application will be built using frontend technologies and frameworks like Angular, HTML, CSS, TypeScript, Bootstrap, along with server side technologies like NodeJS.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
